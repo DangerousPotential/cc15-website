@@ -421,6 +421,8 @@ span.accent { color: var(--accent-gold); }
     border-radius: 16px;
     transform: rotate(2deg);
     transition: var(--transition);
+    max-width: 350px;
+    margin: 0 auto;
 }
 
 .image-wrapper:hover {
